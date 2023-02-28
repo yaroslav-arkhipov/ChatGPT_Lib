@@ -1,1 +1,1 @@
-# ChatGPT_Lib
+This library is designed to work with a new generation of AI ChatGPT. The library was created for use in Delphi. To work, you need to add only your API key to the ChatGPTDemo.pas file, instructions on how to do this can be found here: https://elephas.app/blog/how-to-create-openai-api-keys-cl5c4f21d281431po7k8fgyol0
